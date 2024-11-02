@@ -1,0 +1,17 @@
+{
+  "allowedIps": [],
+  "users": [
+    {
+      "username": "Viren",
+      "password": "Viren10"
+    },
+    {
+      "username": "Viren10",
+      "password": "123"
+    }
+  ],
+  "approvedUsers": [
+        { "username": "Viren", "token": "Viren123" },
+        { "username": "Viren", "token": "Virz" }
+  ]
+}
